@@ -4,7 +4,7 @@ from datetime import datetime
 from pathlib import Path
 
 # === Configuration API ===
-API_KEY = "3fdb5f73f24ccda1ee902717c594a85d"  # À remplacer par votre vraie clé
+API_KEY = "VOTRE_CLE_API_ICI"  # À remplacer par votre vraie clé
 
 # === Villes marocaines ===
 CITIES = {
