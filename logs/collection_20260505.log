@@ -1,0 +1,290 @@
+2026-05-05 00:54:02,212 - INFO -  Progression chargée : 110/168 collectes effectuées
+2026-05-05 00:54:02,213 - INFO - ============================================================
+2026-05-05 00:54:02,213 - INFO -  DÉMARRAGE DE LA COLLECTE AUTOMATIQUE
+2026-05-05 00:54:02,214 - INFO -  Planifié : 168 cycles
+2026-05-05 00:54:02,214 - INFO -  Villes : Casablanca, Rabat, Marrakech, Fes, Tanger, Agadir
+2026-05-05 00:54:02,234 - INFO - ============================================================
+2026-05-05 00:54:02,235 - INFO - 
+ CYCLE 111/168
+2026-05-05 00:54:02,236 - INFO -  2026-05-05 00:54:02
+2026-05-05 00:54:04,112 - INFO -  Casablanca : Temp=16.84°C, AQI=2, PM2.5=2.72
+2026-05-05 00:54:07,711 - INFO -  Rabat : Temp=10.37°C, AQI=2, PM2.5=2.12
+2026-05-05 00:54:32,083 - INFO -  Marrakech : Temp=17.98°C, AQI=2, PM2.5=5.95
+2026-05-05 00:54:35,361 - INFO -  Fes : Temp=14.95°C, AQI=1, PM2.5=2.46
+2026-05-05 00:54:38,637 - INFO -  Tanger : Temp=15.74°C, AQI=3, PM2.5=1.53
+2026-05-05 00:54:42,067 - INFO -  Agadir : Temp=17.06°C, AQI=2, PM2.5=2.56
+2026-05-05 00:54:42,135 - INFO -  Collecté : 6/6 villes
+2026-05-05 00:54:42,219 - INFO -  Total collecté jusqu'ici : 654 enregistrements
+2026-05-05 00:54:42,220 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 01:54:42,267 - INFO - 
+ CYCLE 112/168
+2026-05-05 01:54:42,280 - INFO -  2026-05-05 01:54:42
+2026-05-05 01:54:44,649 - INFO -  Casablanca : Temp=16.84°C, AQI=2, PM2.5=2.77
+2026-05-05 01:54:48,264 - INFO -  Rabat : Temp=9.37°C, AQI=2, PM2.5=2.22
+2026-05-05 01:54:51,795 - INFO -  Marrakech : Temp=16.98°C, AQI=2, PM2.5=5.91
+2026-05-05 01:54:55,483 - INFO -  Fes : Temp=14.95°C, AQI=1, PM2.5=2.46
+2026-05-05 01:54:58,963 - INFO -  Tanger : Temp=15.74°C, AQI=3, PM2.5=1.57
+2026-05-05 01:55:02,655 - INFO -  Agadir : Temp=15.06°C, AQI=2, PM2.5=2.52
+2026-05-05 01:55:02,977 - INFO -  Collecté : 6/6 villes
+2026-05-05 01:55:03,147 - INFO -  Total collecté jusqu'ici : 660 enregistrements
+2026-05-05 01:55:03,148 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 01:55:47,599 - INFO - 
+ INTERRUPTION DÉTECTÉE - Sauvegarde en cours...
+2026-05-05 01:55:47,812 - INFO -  Sauvegarde terminée. 660 enregistrements préservés.
+2026-05-05 01:55:47,812 - INFO -  Relancez le script pour continuer là où vous vous êtes arrêté.
+2026-05-05 01:55:47,812 - INFO - 
+============================================================
+2026-05-05 01:55:47,812 - INFO -  RAPPORT FINAL DE COLLECTE
+2026-05-05 01:55:47,813 - INFO - ============================================================
+2026-05-05 01:55:47,813 - INFO -  Total enregistrements : 660
+2026-05-05 01:55:47,813 - INFO -  Par ville :
+2026-05-05 01:55:47,816 - INFO -    - Casablanca: 110 enregistrements
+2026-05-05 01:55:47,817 - INFO -    - Rabat: 111 enregistrements
+2026-05-05 01:55:47,817 - INFO -    - Marrakech: 110 enregistrements
+2026-05-05 01:55:47,819 - INFO -    - Fes: 110 enregistrements
+2026-05-05 01:55:47,820 - INFO -    - Tanger: 110 enregistrements
+2026-05-05 01:55:47,821 - INFO -    - Agadir: 109 enregistrements
+2026-05-05 01:55:47,822 - INFO -  Échecs : 15
+2026-05-05 01:55:47,864 - INFO -  Données sauvegardées dans : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_20260505_015547.csv
+2026-05-05 01:55:47,884 - INFO -  Version consolidée : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_latest.csv
+2026-05-05 01:55:47,886 - INFO - ============================================================
+2026-05-05 01:55:47,887 - INFO - Collecte terminée !
+2026-05-05 09:02:51,932 - INFO -  Progression chargée : 112/168 collectes effectuées
+2026-05-05 09:02:51,933 - INFO - ============================================================
+2026-05-05 09:02:51,933 - INFO -  DÉMARRAGE DE LA COLLECTE AUTOMATIQUE
+2026-05-05 09:02:51,934 - INFO -  Planifié : 168 cycles
+2026-05-05 09:02:51,935 - INFO -  Villes : Casablanca, Rabat, Marrakech, Fes, Tanger, Agadir
+2026-05-05 09:02:51,944 - INFO - ============================================================
+2026-05-05 09:02:51,945 - INFO - 
+ CYCLE 113/168
+2026-05-05 09:02:51,945 - INFO -  2026-05-05 09:02:51
+2026-05-05 09:02:51,968 - WARNING -  Tentative 1/3 échouée pour Casablanca : HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?lat=33.5731&lon=-7.5898&appid=3fdb5f73f24ccda1ee902717c594a85d&units=metric (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E67FE17C90>: Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-05-05 09:03:02,081 - WARNING -  Tentative 2/3 échouée pour Casablanca : HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?lat=33.5731&lon=-7.5898&appid=3fdb5f73f24ccda1ee902717c594a85d&units=metric (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E6003F25D0>: Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-05-05 09:03:13,832 - INFO -  Casablanca : Temp=16.84°C, AQI=2, PM2.5=3.92
+2026-05-05 09:03:17,026 - INFO -  Rabat : Temp=14.37°C, AQI=2, PM2.5=3.53
+2026-05-05 09:03:20,226 - INFO -  Marrakech : Temp=15.98°C, AQI=2, PM2.5=6.65
+2026-05-05 09:03:23,482 - INFO -  Fes : Temp=13.95°C, AQI=1, PM2.5=2.96
+2026-05-05 09:03:26,762 - INFO -  Tanger : Temp=15.74°C, AQI=2, PM2.5=2.43
+2026-05-05 09:03:30,031 - INFO -  Agadir : Temp=17.06°C, AQI=2, PM2.5=3.34
+2026-05-05 09:03:30,255 - INFO -  Collecté : 6/6 villes
+2026-05-05 09:03:30,475 - INFO -  Total collecté jusqu'ici : 666 enregistrements
+2026-05-05 09:03:30,476 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 10:03:30,514 - INFO - 
+ CYCLE 114/168
+2026-05-05 10:03:30,516 - INFO -  2026-05-05 10:03:30
+2026-05-05 10:03:32,060 - INFO -  Casablanca : Temp=17.89°C, AQI=2, PM2.5=4.22
+2026-05-05 10:03:35,285 - INFO -  Rabat : Temp=18.37°C, AQI=2, PM2.5=3.71
+2026-05-05 10:03:38,491 - INFO -  Marrakech : Temp=18.98°C, AQI=2, PM2.5=6.73
+2026-05-05 10:03:41,722 - INFO -  Fes : Temp=13.95°C, AQI=1, PM2.5=3.02
+2026-05-05 10:03:44,934 - INFO -  Tanger : Temp=17.74°C, AQI=2, PM2.5=2.42
+2026-05-05 10:03:48,139 - INFO -  Agadir : Temp=20.06°C, AQI=2, PM2.5=3.54
+2026-05-05 10:03:48,245 - INFO -  Collecté : 6/6 villes
+2026-05-05 10:03:48,318 - INFO -  Total collecté jusqu'ici : 672 enregistrements
+2026-05-05 10:03:48,318 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 11:03:48,363 - INFO - 
+ CYCLE 115/168
+2026-05-05 11:03:48,367 - INFO -  2026-05-05 11:03:48
+2026-05-05 11:03:50,580 - INFO -  Casablanca : Temp=17.89°C, AQI=3, PM2.5=4.25
+2026-05-05 11:03:53,814 - INFO -  Rabat : Temp=18.37°C, AQI=2, PM2.5=3.88
+2026-05-05 11:03:57,087 - INFO -  Marrakech : Temp=19.98°C, AQI=2, PM2.5=5.44
+2026-05-05 11:04:00,363 - INFO -  Fes : Temp=14.95°C, AQI=2, PM2.5=3.11
+2026-05-05 11:04:03,644 - INFO -  Tanger : Temp=18.74°C, AQI=3, PM2.5=2.02
+2026-05-05 11:04:07,018 - INFO -  Agadir : Temp=22.06°C, AQI=2, PM2.5=3.78
+2026-05-05 11:04:07,099 - INFO -  Collecté : 6/6 villes
+2026-05-05 11:04:07,164 - INFO -  Total collecté jusqu'ici : 678 enregistrements
+2026-05-05 11:04:07,165 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 11:16:39,471 - INFO - 
+ INTERRUPTION DÉTECTÉE - Sauvegarde en cours...
+2026-05-05 11:16:39,658 - INFO -  Sauvegarde terminée. 678 enregistrements préservés.
+2026-05-05 11:16:39,659 - INFO -  Relancez le script pour continuer là où vous vous êtes arrêté.
+2026-05-05 11:16:39,660 - INFO - 
+============================================================
+2026-05-05 11:16:39,661 - INFO -  RAPPORT FINAL DE COLLECTE
+2026-05-05 11:16:39,661 - INFO - ============================================================
+2026-05-05 11:16:39,662 - INFO -  Total enregistrements : 678
+2026-05-05 11:16:39,663 - INFO -  Par ville :
+2026-05-05 11:16:39,663 - INFO -    - Casablanca: 113 enregistrements
+2026-05-05 11:16:39,663 - INFO -    - Rabat: 114 enregistrements
+2026-05-05 11:16:39,664 - INFO -    - Marrakech: 113 enregistrements
+2026-05-05 11:16:39,664 - INFO -    - Fes: 113 enregistrements
+2026-05-05 11:16:39,665 - INFO -    - Tanger: 113 enregistrements
+2026-05-05 11:16:39,666 - INFO -    - Agadir: 112 enregistrements
+2026-05-05 11:16:39,666 - INFO -  Échecs : 15
+2026-05-05 11:16:40,002 - INFO -  Données sauvegardées dans : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_20260505_111639.csv
+2026-05-05 11:16:40,022 - INFO -  Version consolidée : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_latest.csv
+2026-05-05 11:16:40,023 - INFO - ============================================================
+2026-05-05 11:16:40,024 - INFO - Collecte terminée !
+2026-05-05 15:29:07,672 - INFO -  Progression chargée : 115/168 collectes effectuées
+2026-05-05 15:29:07,673 - INFO - ============================================================
+2026-05-05 15:29:07,674 - INFO -  DÉMARRAGE DE LA COLLECTE AUTOMATIQUE
+2026-05-05 15:29:07,674 - INFO -  Planifié : 168 cycles
+2026-05-05 15:29:07,674 - INFO -  Villes : Casablanca, Rabat, Marrakech, Fes, Tanger, Agadir
+2026-05-05 15:29:07,706 - INFO - ============================================================
+2026-05-05 15:29:07,710 - INFO - 
+ CYCLE 116/168
+2026-05-05 15:29:07,713 - INFO -  2026-05-05 15:29:07
+2026-05-05 15:29:09,382 - INFO -  Casablanca : Temp=20.01°C, AQI=3, PM2.5=4.29
+2026-05-05 15:29:12,582 - INFO -  Rabat : Temp=21.37°C, AQI=3, PM2.5=4.2
+2026-05-05 15:29:15,914 - INFO -  Marrakech : Temp=25.98°C, AQI=2, PM2.5=4.08
+2026-05-05 15:29:19,284 - INFO -  Fes : Temp=20.95°C, AQI=2, PM2.5=2.16
+2026-05-05 15:29:22,674 - INFO -  Tanger : Temp=19.74°C, AQI=3, PM2.5=1.89
+2026-05-05 15:29:26,152 - INFO -  Agadir : Temp=27.06°C, AQI=3, PM2.5=6.71
+2026-05-05 15:29:26,309 - INFO -  Collecté : 6/6 villes
+2026-05-05 15:29:26,519 - INFO -  Total collecté jusqu'ici : 684 enregistrements
+2026-05-05 15:29:26,519 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 16:29:26,687 - INFO - 
+ CYCLE 117/168
+2026-05-05 16:29:26,735 - INFO -  2026-05-05 16:29:26
+2026-05-05 16:29:29,449 - INFO -  Casablanca : Temp=19.01°C, AQI=3, PM2.5=4.54
+2026-05-05 16:29:32,967 - INFO -  Rabat : Temp=19.37°C, AQI=3, PM2.5=4.04
+2026-05-05 16:29:36,316 - INFO -  Marrakech : Temp=26.98°C, AQI=2, PM2.5=3.6
+2026-05-05 16:29:39,807 - INFO -  Fes : Temp=21.95°C, AQI=2, PM2.5=2.09
+2026-05-05 16:29:43,316 - INFO -  Tanger : Temp=18.74°C, AQI=3, PM2.5=1.84
+2026-05-05 16:29:46,767 - INFO -  Agadir : Temp=25.06°C, AQI=3, PM2.5=7.56
+2026-05-05 16:29:47,300 - INFO -  Collecté : 6/6 villes
+2026-05-05 16:29:47,473 - INFO -  Total collecté jusqu'ici : 690 enregistrements
+2026-05-05 16:29:47,474 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 17:29:47,578 - INFO - 
+ CYCLE 118/168
+2026-05-05 17:29:47,598 - INFO -  2026-05-05 17:29:47
+2026-05-05 17:29:49,959 - INFO -  Casablanca : Temp=18.95°C, AQI=3, PM2.5=4.51
+2026-05-05 17:29:53,372 - INFO -  Rabat : Temp=19.37°C, AQI=3, PM2.5=3.73
+2026-05-05 17:29:56,978 - INFO -  Marrakech : Temp=27.98°C, AQI=2, PM2.5=3.42
+2026-05-05 17:30:00,461 - INFO -  Fes : Temp=20.95°C, AQI=2, PM2.5=2.24
+2026-05-05 17:30:04,148 - INFO -  Tanger : Temp=18.75°C, AQI=3, PM2.5=1.65
+2026-05-05 17:30:07,835 - INFO -  Agadir : Temp=26.06°C, AQI=3, PM2.5=8.87
+2026-05-05 17:30:08,159 - INFO -  Collecté : 6/6 villes
+2026-05-05 17:30:08,366 - INFO -  Total collecté jusqu'ici : 696 enregistrements
+2026-05-05 17:30:08,366 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 18:30:08,411 - INFO - 
+ CYCLE 119/168
+2026-05-05 18:30:08,419 - INFO -  2026-05-05 18:30:08
+2026-05-05 18:30:10,027 - INFO -  Casablanca : Temp=18.44°C, AQI=3, PM2.5=3.75
+2026-05-05 18:30:13,218 - INFO -  Rabat : Temp=18.37°C, AQI=3, PM2.5=2.91
+2026-05-05 18:30:16,477 - INFO -  Marrakech : Temp=25.98°C, AQI=2, PM2.5=3.29
+2026-05-05 18:30:19,681 - INFO -  Fes : Temp=19.95°C, AQI=2, PM2.5=2.61
+2026-05-05 18:30:22,894 - INFO -  Tanger : Temp=17.74°C, AQI=3, PM2.5=1.55
+2026-05-05 18:30:26,162 - INFO -  Agadir : Temp=25.06°C, AQI=3, PM2.5=8.7
+2026-05-05 18:30:26,253 - INFO -  Collecté : 6/6 villes
+2026-05-05 18:30:26,328 - INFO -  Total collecté jusqu'ici : 702 enregistrements
+2026-05-05 18:30:26,329 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 19:30:26,389 - INFO - 
+ CYCLE 120/168
+2026-05-05 19:30:26,402 - INFO -  2026-05-05 19:30:26
+2026-05-05 19:30:27,973 - INFO -  Casablanca : Temp=18.01°C, AQI=3, PM2.5=3.16
+2026-05-05 19:30:31,202 - INFO -  Rabat : Temp=17.37°C, AQI=3, PM2.5=2.38
+2026-05-05 19:30:34,449 - INFO -  Marrakech : Temp=24.98°C, AQI=2, PM2.5=3.48
+2026-05-05 19:30:37,618 - INFO -  Fes : Temp=19.95°C, AQI=2, PM2.5=2.8
+2026-05-05 19:30:40,858 - INFO -  Tanger : Temp=17.77°C, AQI=3, PM2.5=1.46
+2026-05-05 19:30:44,086 - INFO -  Agadir : Temp=24.06°C, AQI=3, PM2.5=7.63
+2026-05-05 19:30:44,202 - INFO -  Collecté : 6/6 villes
+2026-05-05 19:30:44,278 - INFO -  Total collecté jusqu'ici : 708 enregistrements
+2026-05-05 19:30:44,279 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 20:30:44,325 - INFO - 
+ CYCLE 121/168
+2026-05-05 20:30:44,328 - INFO -  2026-05-05 20:30:44
+2026-05-05 20:30:47,003 - INFO -  Casablanca : Temp=18.01°C, AQI=3, PM2.5=2.73
+2026-05-05 20:30:50,271 - INFO -  Rabat : Temp=17.37°C, AQI=3, PM2.5=2.09
+2026-05-05 20:30:53,549 - INFO -  Marrakech : Temp=23.98°C, AQI=2, PM2.5=3.95
+2026-05-05 20:30:57,039 - INFO -  Fes : Temp=17.95°C, AQI=2, PM2.5=3.01
+2026-05-05 20:31:00,318 - INFO -  Tanger : Temp=17.74°C, AQI=3, PM2.5=1.4
+2026-05-05 20:31:03,574 - INFO -  Agadir : Temp=21.06°C, AQI=3, PM2.5=6.32
+2026-05-05 20:31:03,797 - INFO -  Collecté : 6/6 villes
+2026-05-05 20:31:03,930 - INFO -  Total collecté jusqu'ici : 714 enregistrements
+2026-05-05 20:31:03,930 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 20:41:52,467 - INFO - 
+ INTERRUPTION DÉTECTÉE - Sauvegarde en cours...
+2026-05-05 20:41:52,667 - INFO -  Sauvegarde terminée. 714 enregistrements préservés.
+2026-05-05 20:41:52,668 - INFO -  Relancez le script pour continuer là où vous vous êtes arrêté.
+2026-05-05 20:41:52,668 - INFO - 
+============================================================
+2026-05-05 20:41:52,669 - INFO -  RAPPORT FINAL DE COLLECTE
+2026-05-05 20:41:52,669 - INFO - ============================================================
+2026-05-05 20:41:52,669 - INFO -  Total enregistrements : 714
+2026-05-05 20:41:52,669 - INFO -  Par ville :
+2026-05-05 20:41:52,670 - INFO -    - Casablanca: 119 enregistrements
+2026-05-05 20:41:52,670 - INFO -    - Rabat: 120 enregistrements
+2026-05-05 20:41:52,670 - INFO -    - Marrakech: 119 enregistrements
+2026-05-05 20:41:52,670 - INFO -    - Fes: 119 enregistrements
+2026-05-05 20:41:52,673 - INFO -    - Tanger: 119 enregistrements
+2026-05-05 20:41:52,674 - INFO -    - Agadir: 118 enregistrements
+2026-05-05 20:41:52,675 - INFO -  Échecs : 15
+2026-05-05 20:41:52,851 - INFO -  Données sauvegardées dans : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_20260505_204152.csv
+2026-05-05 20:41:52,880 - INFO -  Version consolidée : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_latest.csv
+2026-05-05 20:41:52,881 - INFO - ============================================================
+2026-05-05 20:41:52,885 - INFO - Collecte terminée !
+2026-05-05 21:57:23,578 - INFO -  Progression chargée : 121/168 collectes effectuées
+2026-05-05 21:57:23,579 - INFO - ============================================================
+2026-05-05 21:57:23,581 - INFO -  DÉMARRAGE DE LA COLLECTE AUTOMATIQUE
+2026-05-05 21:57:23,583 - INFO -  Planifié : 168 cycles
+2026-05-05 21:57:23,584 - INFO -  Villes : Casablanca, Rabat, Marrakech, Fes, Tanger, Agadir
+2026-05-05 21:57:23,605 - INFO - ============================================================
+2026-05-05 21:57:23,606 - INFO - 
+ CYCLE 122/168
+2026-05-05 21:57:23,608 - INFO -  2026-05-05 21:57:23
+2026-05-05 21:57:25,506 - INFO -  Casablanca : Temp=16.84°C, AQI=3, PM2.5=2.48
+2026-05-05 21:57:28,983 - INFO -  Rabat : Temp=16.37°C, AQI=2, PM2.5=1.99
+2026-05-05 21:57:32,220 - INFO -  Marrakech : Temp=20.98°C, AQI=2, PM2.5=4.27
+2026-05-05 21:57:35,537 - INFO -  Fes : Temp=14.95°C, AQI=2, PM2.5=3.11
+2026-05-05 21:57:38,758 - INFO -  Tanger : Temp=16.74°C, AQI=3, PM2.5=1.39
+2026-05-05 21:57:42,239 - INFO -  Agadir : Temp=18.06°C, AQI=3, PM2.5=5.21
+2026-05-05 21:57:42,390 - INFO -  Collecté : 6/6 villes
+2026-05-05 21:57:42,672 - INFO -  Total collecté jusqu'ici : 720 enregistrements
+2026-05-05 21:57:42,673 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 22:57:42,778 - INFO - 
+ CYCLE 123/168
+2026-05-05 22:57:42,813 - INFO -  2026-05-05 22:57:42
+2026-05-05 22:57:44,656 - INFO -  Casablanca : Temp=16.84°C, AQI=2, PM2.5=2.39
+2026-05-05 22:57:47,857 - INFO -  Rabat : Temp=16.37°C, AQI=2, PM2.5=2.01
+2026-05-05 22:57:51,054 - INFO -  Marrakech : Temp=17.98°C, AQI=2, PM2.5=4.38
+2026-05-05 22:57:54,548 - INFO -  Fes : Temp=13.95°C, AQI=2, PM2.5=3.07
+2026-05-05 22:57:57,744 - INFO -  Tanger : Temp=16.77°C, AQI=3, PM2.5=1.49
+2026-05-05 22:58:00,957 - INFO -  Agadir : Temp=18.06°C, AQI=3, PM2.5=4.42
+2026-05-05 22:58:01,132 - INFO -  Collecté : 6/6 villes
+2026-05-05 22:58:01,288 - INFO -  Total collecté jusqu'ici : 726 enregistrements
+2026-05-05 22:58:01,289 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-05 23:58:01,364 - INFO - 
+ CYCLE 124/168
+2026-05-05 23:58:01,397 - INFO -  2026-05-05 23:58:01
+2026-05-05 23:58:03,266 - INFO -  Casablanca : Temp=16.84°C, AQI=2, PM2.5=2.47
+2026-05-05 23:58:06,437 - INFO -  Rabat : Temp=16.37°C, AQI=2, PM2.5=2.11
+2026-05-05 23:58:09,625 - INFO -  Marrakech : Temp=16.98°C, AQI=2, PM2.5=4.5
+2026-05-05 23:58:12,922 - INFO -  Fes : Temp=12.95°C, AQI=2, PM2.5=3.05
+2026-05-05 23:58:16,383 - INFO -  Tanger : Temp=15.74°C, AQI=3, PM2.5=1.67
+2026-05-05 23:58:19,786 - INFO -  Agadir : Temp=17.06°C, AQI=3, PM2.5=3.81
+2026-05-05 23:58:20,166 - INFO -  Collecté : 6/6 villes
+2026-05-05 23:58:20,597 - INFO -  Total collecté jusqu'ici : 732 enregistrements
+2026-05-05 23:58:20,597 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-06 00:58:20,664 - INFO - 
+ CYCLE 125/168
+2026-05-06 00:58:20,682 - INFO -  2026-05-06 00:58:20
+2026-05-06 00:58:22,441 - INFO -  Casablanca : Temp=17.01°C, AQI=2, PM2.5=2.6
+2026-05-06 00:58:25,678 - INFO -  Rabat : Temp=13.37°C, AQI=2, PM2.5=2.24
+2026-05-06 00:58:28,917 - INFO -  Marrakech : Temp=15.98°C, AQI=2, PM2.5=4.62
+2026-05-06 00:58:32,189 - INFO -  Fes : Temp=11.95°C, AQI=2, PM2.5=3.03
+2026-05-06 00:58:35,396 - INFO -  Tanger : Temp=15.74°C, AQI=3, PM2.5=1.86
+2026-05-06 00:58:38,638 - INFO -  Agadir : Temp=17.06°C, AQI=3, PM2.5=3.35
+2026-05-06 00:58:38,709 - INFO -  Collecté : 6/6 villes
+2026-05-06 00:58:38,780 - INFO -  Total collecté jusqu'ici : 738 enregistrements
+2026-05-06 00:58:38,781 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-06 01:07:00,046 - INFO - 
+ INTERRUPTION DÉTECTÉE - Sauvegarde en cours...
+2026-05-06 01:07:00,155 - INFO -  Sauvegarde terminée. 738 enregistrements préservés.
+2026-05-06 01:07:00,155 - INFO -  Relancez le script pour continuer là où vous vous êtes arrêté.
+2026-05-06 01:07:00,155 - INFO - 
+============================================================
+2026-05-06 01:07:00,156 - INFO -  RAPPORT FINAL DE COLLECTE
+2026-05-06 01:07:00,156 - INFO - ============================================================
+2026-05-06 01:07:00,156 - INFO -  Total enregistrements : 738
+2026-05-06 01:07:00,156 - INFO -  Par ville :
+2026-05-06 01:07:00,157 - INFO -    - Casablanca: 123 enregistrements
+2026-05-06 01:07:00,157 - INFO -    - Rabat: 124 enregistrements
+2026-05-06 01:07:00,157 - INFO -    - Marrakech: 123 enregistrements
+2026-05-06 01:07:00,157 - INFO -    - Fes: 123 enregistrements
+2026-05-06 01:07:00,158 - INFO -    - Tanger: 123 enregistrements
+2026-05-06 01:07:00,158 - INFO -    - Agadir: 122 enregistrements
+2026-05-06 01:07:00,158 - INFO -  Échecs : 15
+2026-05-06 01:07:00,422 - INFO -  Données sauvegardées dans : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_20260506_010700.csv
+2026-05-06 01:07:00,434 - INFO -  Version consolidée : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_latest.csv
+2026-05-06 01:07:00,434 - INFO - ============================================================
+2026-05-06 01:07:00,435 - INFO - Collecte terminée !

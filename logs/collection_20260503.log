@@ -1,0 +1,96 @@
+2026-05-03 20:56:47,456 - INFO -  Progression chargée : 94/168 collectes effectuées
+2026-05-03 20:56:47,457 - INFO - ============================================================
+2026-05-03 20:56:47,459 - INFO -  DÉMARRAGE DE LA COLLECTE AUTOMATIQUE
+2026-05-03 20:56:47,460 - INFO -  Planifié : 168 cycles
+2026-05-03 20:56:47,460 - INFO -  Villes : Casablanca, Rabat, Marrakech, Fes, Tanger, Agadir
+2026-05-03 20:56:47,480 - INFO - ============================================================
+2026-05-03 20:56:47,489 - INFO - 
+ CYCLE 95/168
+2026-05-03 20:56:47,490 - INFO -  2026-05-03 20:56:47
+2026-05-03 20:56:47,508 - WARNING -  Tentative 1/3 échouée pour Casablanca : HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?lat=33.5731&lon=-7.5898&appid=3fdb5f73f24ccda1ee902717c594a85d&units=metric (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DE8E3BFC90>: Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-05-03 20:56:51,580 - INFO - 
+ INTERRUPTION DÉTECTÉE - Sauvegarde en cours...
+2026-05-03 20:56:51,635 - INFO -  Sauvegarde terminée. 552 enregistrements préservés.
+2026-05-03 20:56:51,636 - INFO -  Relancez le script pour continuer là où vous vous êtes arrêté.
+2026-05-03 20:56:51,636 - INFO - 
+============================================================
+2026-05-03 20:56:51,636 - INFO -  RAPPORT FINAL DE COLLECTE
+2026-05-03 20:56:51,637 - INFO - ============================================================
+2026-05-03 20:56:51,637 - INFO -  Total enregistrements : 552
+2026-05-03 20:56:51,640 - INFO -  Par ville :
+2026-05-03 20:56:51,641 - INFO -    - Casablanca: 92 enregistrements
+2026-05-03 20:56:51,642 - INFO -    - Rabat: 93 enregistrements
+2026-05-03 20:56:51,643 - INFO -    - Marrakech: 92 enregistrements
+2026-05-03 20:56:51,645 - INFO -    - Fes: 92 enregistrements
+2026-05-03 20:56:51,646 - INFO -    - Tanger: 92 enregistrements
+2026-05-03 20:56:51,647 - INFO -    - Agadir: 91 enregistrements
+2026-05-03 20:56:51,648 - INFO -  Échecs : 15
+2026-05-03 20:56:51,691 - INFO -  Données sauvegardées dans : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_20260503_205651.csv
+2026-05-03 20:56:51,705 - INFO -  Version consolidée : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_latest.csv
+2026-05-03 20:56:51,705 - INFO - ============================================================
+2026-05-03 20:56:51,706 - INFO - Collecte terminée !
+2026-05-03 20:57:55,699 - INFO -  Progression chargée : 94/168 collectes effectuées
+2026-05-03 20:57:55,700 - INFO - ============================================================
+2026-05-03 20:57:55,700 - INFO -  DÉMARRAGE DE LA COLLECTE AUTOMATIQUE
+2026-05-03 20:57:55,703 - INFO -  Planifié : 168 cycles
+2026-05-03 20:57:55,704 - INFO -  Villes : Casablanca, Rabat, Marrakech, Fes, Tanger, Agadir
+2026-05-03 20:57:55,731 - INFO - ============================================================
+2026-05-03 20:57:55,739 - INFO - 
+ CYCLE 95/168
+2026-05-03 20:57:55,739 - INFO -  2026-05-03 20:57:55
+2026-05-03 20:57:57,349 - INFO -  Casablanca : Temp=18.95°C, AQI=2, PM2.5=2.51
+2026-05-03 20:58:00,542 - INFO -  Rabat : Temp=18.37°C, AQI=2, PM2.5=2.44
+2026-05-03 20:58:04,308 - INFO -  Marrakech : Temp=23.98°C, AQI=2, PM2.5=10.25
+2026-05-03 20:58:07,425 - WARNING -  Tentative 1/3 échouée pour Fes : HTTPConnectionPool(host='api.openweathermap.org', port=80): Max retries exceeded with url: /data/2.5/air_pollution?lat=34.0181&lon=-5.0078&appid=3fdb5f73f24ccda1ee902717c594a85d (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000012BCE909310>: Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-05-03 20:58:17,465 - WARNING -  Tentative 2/3 échouée pour Fes : HTTPSConnectionPool(host='api.openweathermap.org', port=443): Max retries exceeded with url: /data/2.5/weather?lat=34.0181&lon=-5.0078&appid=3fdb5f73f24ccda1ee902717c594a85d&units=metric (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000012BC8E47F50>: Failed to resolve 'api.openweathermap.org' ([Errno 11001] getaddrinfo failed)"))
+2026-05-03 20:58:28,905 - INFO -  Fes : Temp=19.97°C, AQI=2, PM2.5=4.01
+2026-05-03 20:58:32,156 - INFO -  Tanger : Temp=17.74°C, AQI=2, PM2.5=1.07
+2026-05-03 20:58:35,519 - INFO -  Agadir : Temp=18.06°C, AQI=2, PM2.5=1.8
+2026-05-03 20:58:35,682 - INFO -  Collecté : 6/6 villes
+2026-05-03 20:58:35,852 - INFO -  Total collecté jusqu'ici : 558 enregistrements
+2026-05-03 20:58:35,853 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-03 21:58:35,902 - INFO - 
+ CYCLE 96/168
+2026-05-03 21:58:35,920 - INFO -  2026-05-03 21:58:35
+2026-05-03 21:58:37,736 - INFO -  Casablanca : Temp=17.89°C, AQI=2, PM2.5=2.5
+2026-05-03 21:58:40,992 - INFO -  Rabat : Temp=17.37°C, AQI=2, PM2.5=2.2
+2026-05-03 21:58:44,427 - INFO -  Marrakech : Temp=21.98°C, AQI=2, PM2.5=10.17
+2026-05-03 21:58:47,651 - INFO -  Fes : Temp=17.95°C, AQI=2, PM2.5=3.66
+2026-05-03 21:58:51,014 - INFO -  Tanger : Temp=17.74°C, AQI=2, PM2.5=1.11
+2026-05-03 21:58:54,468 - INFO -  Agadir : Temp=18.03°C, AQI=2, PM2.5=1.76
+2026-05-03 21:58:54,902 - INFO -  Collecté : 6/6 villes
+2026-05-03 21:58:55,295 - INFO -  Total collecté jusqu'ici : 564 enregistrements
+2026-05-03 21:58:55,296 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-03 22:58:55,353 - INFO - 
+ CYCLE 97/168
+2026-05-03 22:58:55,356 - INFO -  2026-05-03 22:58:55
+2026-05-03 22:58:57,096 - INFO -  Casablanca : Temp=17.89°C, AQI=2, PM2.5=2.48
+2026-05-03 22:59:00,309 - INFO -  Rabat : Temp=16.37°C, AQI=2, PM2.5=2.01
+2026-05-03 22:59:03,594 - INFO -  Marrakech : Temp=19.98°C, AQI=2, PM2.5=9.99
+2026-05-03 22:59:06,784 - INFO -  Fes : Temp=16.95°C, AQI=1, PM2.5=3.32
+2026-05-03 22:59:10,052 - INFO -  Tanger : Temp=16.74°C, AQI=2, PM2.5=1.18
+2026-05-03 22:59:13,340 - INFO -  Agadir : Temp=18.06°C, AQI=2, PM2.5=1.76
+2026-05-03 22:59:13,418 - INFO -  Collecté : 6/6 villes
+2026-05-03 22:59:13,480 - INFO -  Total collecté jusqu'ici : 570 enregistrements
+2026-05-03 22:59:13,480 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-05-04 07:40:01,715 - INFO - 
+ INTERRUPTION DÉTECTÉE - Sauvegarde en cours...
+2026-05-04 07:40:01,774 - INFO -  Sauvegarde terminée. 570 enregistrements préservés.
+2026-05-04 07:40:01,774 - INFO -  Relancez le script pour continuer là où vous vous êtes arrêté.
+2026-05-04 07:40:01,775 - INFO - 
+============================================================
+2026-05-04 07:40:01,776 - INFO -  RAPPORT FINAL DE COLLECTE
+2026-05-04 07:40:01,776 - INFO - ============================================================
+2026-05-04 07:40:01,776 - INFO -  Total enregistrements : 570
+2026-05-04 07:40:01,776 - INFO -  Par ville :
+2026-05-04 07:40:01,777 - INFO -    - Casablanca: 95 enregistrements
+2026-05-04 07:40:01,777 - INFO -    - Rabat: 96 enregistrements
+2026-05-04 07:40:01,777 - INFO -    - Marrakech: 95 enregistrements
+2026-05-04 07:40:01,777 - INFO -    - Fes: 95 enregistrements
+2026-05-04 07:40:01,780 - INFO -    - Tanger: 95 enregistrements
+2026-05-04 07:40:01,781 - INFO -    - Agadir: 94 enregistrements
+2026-05-04 07:40:01,782 - INFO -  Échecs : 15
+2026-05-04 07:40:02,074 - INFO -  Données sauvegardées dans : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_20260504_074001.csv
+2026-05-04 07:40:02,090 - INFO -  Version consolidée : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_latest.csv
+2026-05-04 07:40:02,090 - INFO - ============================================================
+2026-05-04 07:40:02,091 - INFO - Collecte terminée !

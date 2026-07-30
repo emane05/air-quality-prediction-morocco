@@ -1,0 +1,63 @@
+2026-04-25 23:30:47,412 - INFO -  Aucune progression trouvée, démarrage depuis zéro
+2026-04-25 23:30:47,412 - INFO - ============================================================
+2026-04-25 23:30:47,413 - INFO -  DÉMARRAGE DE LA COLLECTE AUTOMATIQUE
+2026-04-25 23:30:47,413 - INFO -  Planifié : 168 cycles
+2026-04-25 23:30:47,414 - INFO -  Villes : Casablanca, Rabat, Marrakech, Fes, Tanger, Agadir
+2026-04-25 23:30:47,422 - INFO - ============================================================
+2026-04-25 23:30:47,423 - INFO - 
+ CYCLE 1/168
+2026-04-25 23:30:47,424 - INFO -  2026-04-25 23:30:47
+2026-04-25 23:30:49,327 - INFO -  Casablanca : Temp=17.89°C, AQI=3, PM2.5=8.76
+2026-04-25 23:30:52,557 - INFO -  Rabat : Temp=17.37°C, AQI=3, PM2.5=9.59
+2026-04-25 23:30:55,811 - INFO -  Marrakech : Temp=19.98°C, AQI=2, PM2.5=5.77
+2026-04-25 23:30:59,033 - INFO -  Fes : Temp=14.95°C, AQI=2, PM2.5=2.7
+2026-04-25 23:31:02,241 - INFO -  Tanger : Temp=17.74°C, AQI=2, PM2.5=3.97
+2026-04-25 23:31:05,570 - INFO -  Agadir : Temp=17.06°C, AQI=3, PM2.5=5.44
+2026-04-25 23:31:05,580 - INFO -  Collecté : 6/6 villes
+2026-04-25 23:31:05,587 - INFO -  Total collecté jusqu'ici : 6 enregistrements
+2026-04-25 23:31:05,588 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-04-26 00:31:05,707 - INFO - 
+ CYCLE 2/168
+2026-04-26 00:31:05,736 - INFO -  2026-04-26 00:31:05
+2026-04-26 00:31:07,658 - INFO -  Casablanca : Temp=17.89°C, AQI=3, PM2.5=9.41
+2026-04-26 00:31:10,859 - INFO -  Rabat : Temp=15.37°C, AQI=3, PM2.5=8.78
+2026-04-26 00:31:14,207 - INFO -  Marrakech : Temp=18.98°C, AQI=2, PM2.5=5.49
+2026-04-26 00:31:17,448 - INFO -  Fes : Temp=12.95°C, AQI=1, PM2.5=2.73
+2026-04-26 00:31:20,668 - INFO -  Tanger : Temp=17.74°C, AQI=2, PM2.5=4.05
+2026-04-26 00:31:23,894 - INFO -  Agadir : Temp=17.06°C, AQI=3, PM2.5=6.07
+2026-04-26 00:31:23,913 - INFO -  Collecté : 6/6 villes
+2026-04-26 00:31:23,934 - INFO -  Total collecté jusqu'ici : 12 enregistrements
+2026-04-26 00:31:23,937 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-04-26 01:31:24,144 - INFO - 
+ CYCLE 3/168
+2026-04-26 01:31:24,185 - INFO -  2026-04-26 01:31:24
+2026-04-26 01:31:26,131 - INFO -  Casablanca : Temp=17.89°C, AQI=3, PM2.5=9.02
+2026-04-26 01:31:29,393 - INFO -  Rabat : Temp=14.37°C, AQI=2, PM2.5=8.25
+2026-04-26 01:31:33,288 - INFO -  Marrakech : Temp=17.98°C, AQI=2, PM2.5=5.36
+2026-04-26 01:31:37,295 - INFO -  Fes : Temp=13.95°C, AQI=1, PM2.5=2.78
+2026-04-26 01:31:40,878 - INFO -  Tanger : Temp=17.74°C, AQI=2, PM2.5=3.99
+2026-04-26 01:31:44,554 - INFO -  Agadir : Temp=16.06°C, AQI=3, PM2.5=6.38
+2026-04-26 01:31:44,589 - INFO -  Collecté : 6/6 villes
+2026-04-26 01:31:44,617 - INFO -  Total collecté jusqu'ici : 18 enregistrements
+2026-04-26 01:31:44,619 - INFO -  Attente de 60 minutes... (Ctrl+C pour interrompre et reprendre plus tard)
+2026-04-26 01:33:15,625 - INFO - 
+ INTERRUPTION DÉTECTÉE - Sauvegarde en cours...
+2026-04-26 01:33:15,650 - INFO -  Sauvegarde terminée. 18 enregistrements préservés.
+2026-04-26 01:33:15,652 - INFO -  Relancez le script pour continuer là où vous vous êtes arrêté.
+2026-04-26 01:33:15,653 - INFO - 
+============================================================
+2026-04-26 01:33:15,655 - INFO -  RAPPORT FINAL DE COLLECTE
+2026-04-26 01:33:15,659 - INFO - ============================================================
+2026-04-26 01:33:15,660 - INFO -  Total enregistrements : 18
+2026-04-26 01:33:15,661 - INFO -  Par ville :
+2026-04-26 01:33:15,662 - INFO -    - Casablanca: 3 enregistrements
+2026-04-26 01:33:15,664 - INFO -    - Rabat: 3 enregistrements
+2026-04-26 01:33:15,665 - INFO -    - Marrakech: 3 enregistrements
+2026-04-26 01:33:15,666 - INFO -    - Fes: 3 enregistrements
+2026-04-26 01:33:15,667 - INFO -    - Tanger: 3 enregistrements
+2026-04-26 01:33:15,668 - INFO -    - Agadir: 3 enregistrements
+2026-04-26 01:33:15,670 - INFO -  Échecs : 0
+2026-04-26 01:33:16,028 - INFO -  Données sauvegardées dans : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_20260426_013315.csv
+2026-04-26 01:33:16,037 - INFO -  Version consolidée : C:\Users\safawardi\Documents\IA2_bdsi\projet_air_quality\data\raw\air_quality_latest.csv
+2026-04-26 01:33:16,039 - INFO - ============================================================
+2026-04-26 01:33:16,042 - INFO - Collecte terminée !
